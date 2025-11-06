@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>att3</title>
+
+
+<style>
+
+   div {
+   backgroungd-color: red;
+   width: 300px;
+   margin-inline-start: 0cap;
+}
+
+
+</style>
+</head>
+<body>
+    <h1>lista não ordenada</h1> 
+<div>
+
+    <ul>
+
+    <ll>banana</ll>
+    <ll>maçã</ll>
+    <ll>uva</ll>
+
+</ul>
+</div>
+<h2>lista ordenada</h2>
+  
+</body>
+</html>
